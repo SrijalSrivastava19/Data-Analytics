@@ -1,4 +1,4 @@
-# 📊 Data Analytics & Data Science
+# 📊 Data Analytics & Data Science Portfolio
 
 Welcome to my **Data Analytics & Data Science** repository.
 
